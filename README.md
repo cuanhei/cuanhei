@@ -1,6 +1,6 @@
 # HELLO WORLD !👋
 ```
-I'm Currently Stdying Diploma In Information (IT) with CGPA of 3.61
+I'm Currently Stdying Diploma In Information (IT)
 ```
 ## 📊 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuanhei&layout=compact&theme=radical)

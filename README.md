@@ -1,8 +1,5 @@
-# HELLO WORLD !👋
-```
-I'm Currently Stdying Diploma In Information (IT)
-```
-## 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cuanhei&layout=compact&theme=radical)
-## 🏆 GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=cuanhei&theme=gruvbox)
+
+<div align="center">
+<h1>LIM CUAN HEI</h1>
+  <img src="https://github.com/user-attachments/assets/e3f1e805-9698-45e5-81a7-c4772955389a" alt="Centered Image" width="200px">
+</div>
